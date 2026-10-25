@@ -2,7 +2,7 @@
 
 Eine To-do-Liste im Browser. Die Grundversion stammt aus dem JavaScript-Kurs von **SuperSimpleDev**, die Erledigt-Liste, das Speichern und den Zähler habe ich selbst gebaut.
 
-**Live ausprobieren:** https://julian-trou.github.io/todo-liste/
+**Live ausprobieren:** https://juliantrouch.github.io/todo-liste/
 
 ## Aus dem Kurs
 
